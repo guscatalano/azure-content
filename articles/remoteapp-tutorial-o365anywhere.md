@@ -19,10 +19,10 @@ Then continue by clicking new on the bottom and "quick creating" a collection. P
 
 Once you finish the form the collection creation process should start. This may take up to an hour or so.
 
-![Waiting](http://i.imgur.com/OsALu9E.png)
+![Waiting](https://raw.githubusercontent.com/guscatalano/azure-content/master/articles/media/remoteapp-tutorial-o365anywhere/3-waiting.PNG)
 
 Once the process is done, it will look something like this. If we click on "Publishing" we can see that most Office applications have been published for us already.
-![Collection created](http://imgur.com/aGObNwR.png)
+![Collection created](https://raw.githubusercontent.com/guscatalano/azure-content/master/articles/media/remoteapp-tutorial-o365anywhere/4-done.PNG)
 
 ![Published apps](http://i.imgur.com/anmHb01.png)
 
