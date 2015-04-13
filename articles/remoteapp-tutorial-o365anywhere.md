@@ -12,10 +12,10 @@ We will accomplish this using Azure RemoteApp by hosting Office 365 on scale-abl
 Create a Cloud Collection
 -------------
 First after you have created an Azure Account, navigate to "RemoteApp" by clicking on the link on the left side. 
-![Showing Azure RemoteApp on the Azure Portal](http://i.imgur.com/G2XzS3m.jpg)
+![Showing Azure RemoteApp on the Azure Portal](https://raw.githubusercontent.com/guscatalano/azure-content/master/articles/media/remoteapp-tutorial-o365anywhere/1-menu.png)
 
 Then continue by clicking new on the bottom and "quick creating" a collection. Provide a name, the region, the subscription, the plan and the image "Office Proffesional 2013" that we provide.
-![Create Dialog](http://i.imgur.com/8YGwuq6.png)
+![Create Dialog](https://raw.githubusercontent.com/guscatalano/azure-content/master/articles/media/remoteapp-tutorial-o365anywhere/2-quickcreate.PNG)
 
 Once you finish the form the collection creation process should start. This may take up to an hour or so.
 
