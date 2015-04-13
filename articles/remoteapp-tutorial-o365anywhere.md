@@ -2,7 +2,9 @@ Get the same O365 Experience on any device
 ===================
 
 
-This article will cover how to deploy Office 365 on any device in your company. Your users can get the same capabilities and UI experience on Android, Apple and Windows. We will accomplish this using Azure RemoteApp by hosting Office 365 on scale-able Virtual Machines in Azure that users can connect to. This set of virtual machines we call a "Cloud Collection". 
+This article will cover how to deploy Office 365 on any device in your company. Your users can get the same capabilities and UI experience on Android, Apple and Windows. 
+
+We will accomplish this using Azure RemoteApp by hosting Office 365 on scale-able Virtual Machines in Azure that users can connect to. This set of virtual machines we call a "Cloud Collection". 
 
 ----------
 
