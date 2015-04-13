@@ -41,12 +41,14 @@ Once the application starts you'll be asked to sign in with your live ID, use th
 
 What it looks like when there are new invitations.
 
-![Accept an application](http://i.imgur.com/g9ggPwH.png) 
+![Accept an application](https://raw.githubusercontent.com/guscatalano/azure-content/master/articles/media/remoteapp-tutorial-o365anywhere/8-invitation.PNG) 
 
 Once you accept the invitation you should see all the office apps in the Azure RemoteApp client.
 
-![List of apps](http://i.imgur.com/U7KQrGS.png)
+![List of apps](https://raw.githubusercontent.com/guscatalano/azure-content/master/articles/media/remoteapp-tutorial-o365anywhere/9-work.PNG)
 
 When you click on any of these the application should start on the Azure Virtual Machine and you should be all set! Enjoy!
 
-![powerpoint](http://i.imgur.com/96CcWVB.png)
+![starting](https://raw.githubusercontent.com/guscatalano/azure-content/master/articles/media/remoteapp-tutorial-o365anywhere/10-arastart.PNG)
+
+![powerpoint](https://raw.githubusercontent.com/guscatalano/azure-content/master/articles/media/remoteapp-tutorial-o365anywhere/11-pp.PNG)
